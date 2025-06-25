@@ -68,7 +68,7 @@
     "flipper-server-client": "0.0.0",
     "flipper-test-utils": "0.0.0",
     "invariant": "^2.2.4",
-    "jest-mock-console": "^1.2.3",
+    "jest-mock-console": "^2.0.0",
     "metro-runtime": "^0.70.2",
     "pretty-format": "^29.7.0",
     "react-refresh": "^0.14.0",
