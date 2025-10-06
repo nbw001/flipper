@@ -101,7 +101,7 @@
     "rimraf": "^3.0.2",
     "ts-jest": "^29.2.3",
     "tsx": "^4.15.7",
-    "typescript": "^5.4.2"
+    "typescript": "^5.9.3"
   },
   "homepage": "https://fbflipper.com/",
   "icon": "icon.png",
